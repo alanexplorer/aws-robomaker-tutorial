@@ -1,0 +1,5 @@
+<launch>
+    <node pkg="robot_app" type="laser.py" name="scan_values" output="screen">
+        
+    </node>
+</launch>
